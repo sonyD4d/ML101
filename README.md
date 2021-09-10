@@ -1,5 +1,5 @@
 # MachineLearning
-These are practical implemtation of fundamental machine learning algorithms 
+These are few practical implementations of fundamental machine learning algorithms 
 
     - Character recognition system using feature set Eucledian distance
     - Bayes classifier for single feature
